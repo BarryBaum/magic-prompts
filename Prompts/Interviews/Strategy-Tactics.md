@@ -12,11 +12,10 @@ Structure:
 6. **What we stop doing** — patterns, technologies, or approaches we should phase out
 7. **Success metrics** — how we know the vision is being realised
 8. **Risks** — what could prevent us from getting there
-9. **This document is aimed at A mixed audience would be best and will not extremely technical to the point that a leader from a different team would have a hard time following it. These are reviewed by non-engineering leaders, as well as technical leaders. **
-10. **1-3 pages is a good target. I’d say that taking complex projects or issues and concisely explaining them is valuable to our way of working. **
+9. **This document is aimed at A mixed audience would be best and will not extremely technical to the point that a leader from a different team would have a hard time following it. These are reviewed by non-engineering leaders, as well as technical leaders**
+10. **1-3 pages is a good target. I’d say that taking complex projects or issues and concisely explaining them is valuable to our way of working**
 
-Questions That Must Be Answered: 
-
+Questions That Must Be Answered:
 1. **What problem was that strategy solving and why was it necessary in terms of business impact?** (including what data pointed to the need for it)
 2. **What was your definition of success? And what impact did it eventually have?** (including any specific metrics you tracked for both)
 3. **Who were the key stakeholders and how did you make a case for it, handle objections and build support among that group?**
@@ -24,12 +23,13 @@ Questions That Must Be Answered:
 5. **What were your biggest individual lessons learned and how would you apply them if you were to redo it?**
 
 Formatting Rules: 
-1. No em dashes, en dashes, or hyphens used as connecting punctuation anywhere.** Write "event driven" not "event-driven," use "to" for date ranges, not a dash. Hyphens are fine only where truly unavoidable (rare). Standard bullet-point dashes in lists are fine.
-2. PDF format only 
-3. Two pages maximum (one page only if explicitly requested)
-5. Dates: full month names ("October 2025 to Present"), drop the month for anything more than 3-4 years old if trimming for space 
-6. No internal jargon or nicknames — describe things in outsider-understandable language 
-7. Clickable links only, no raw URLs
+1. **No em dashes, en dashes, or hyphens used as connecting punctuation anywhere.** 
+2. **Write "event driven" not "event-driven," use "to" for date ranges, not a dash. Hyphens are fine only where truly unavoidable (rare). Standard bullet-point dashes in lists are fine**
+2. **PDF format only** 
+3. **Two pages maximum (one page only if explicitly requested)**
+5. **Dates: full month names ("October 2025 to Present"), drop the month for anything more than 3-4 years old if trimming for space** 
+6. **No internal jargon or nicknames — describe things in outsider-understandable language** 
+7. **Clickable links only, no raw URLs**
 
 Content rules:
 1. **Every bullet should contain at least one number where possible 2**

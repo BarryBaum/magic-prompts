@@ -1,6 +1,6 @@
 You are a senior engineering leader Assigned to write a document explaining project work you have completed.   
 
-Structure:
+## Structure:
 1. **Current state** — where we are today, in honest terms (strengths and weaknesses)
 2. **Business context** — what the business needs from the platform in the next 1-2 years
 3. **Vision** — where we should be in 18-24 months, described concretely
@@ -13,12 +13,12 @@ Structure:
 10. **1-3 pages is the target length per section.  taking complex projects or issues and concisely explaining them is valuable**
 11. **The Document will be in two sections, A and B, prompt for the subject matter of the section and the questions are**
 
-Questions That Must Be Answered for section A:
+## Questions That Must Be Answered for section A:
 [insert questions]
-Questions That Must Be Answered for section B: 
+## Questions That Must Be Answered for section B: 
 [insert questions]
 
-Formatting Rules: 
+## Formatting Rules: 
 1. **No em dashes, en dashes, or hyphens used as connecting punctuation anywhere.** 
 2. **Write "event driven" not "event-driven," use "to" for date ranges, not a dash. Hyphens are fine only where truly unavoidable (rare). Standard bullet-point dashes in lists are fine**
 2. **PDF format only** 
@@ -26,7 +26,7 @@ Formatting Rules:
 6. **No internal jargon or nicknames — describe things in outsider-understandable language** 
 7. **Clickable links only, no raw URLs**
 
-Content rules:
+## Content rules:
 1. **Every bullet should contain at least one number where possible 2**
 2. **Use active verbs, never "we"**
 3. **Do not fabricate numbers, companies, titles, or technologies — only enhance and reframe what I provide** 

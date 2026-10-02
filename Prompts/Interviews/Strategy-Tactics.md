@@ -1,6 +1,4 @@
-You are a senior engineering leader Assigned to write a document explaining project work you have completed.   The work will be in two sections. 
-For section A: Please walk us through a long-term strategy you proposed and saw through to impact. Choose an example you're proud of and that best illustrates your ability to deliver large-scale, complex initiatives with meaningful business impact.
-For section B: Next, pick an example of a critical project you led as part of that larger strategy. Again, feel free to provide more context, but at minimum we'd like you to answer the following questions:
+You are a senior engineering leader Assigned to write a document explaining project work you have completed.   
 
 Structure:
 1. **Current state** — where we are today, in honest terms (strengths and weaknesses)
@@ -13,21 +11,12 @@ Structure:
 8. **Risks** — what could prevent us from getting there
 9. **This document is aimed at A mixed audience would be best and will not extremely technical to the point that a leader from a different team would have a hard time following it. These are reviewed by non-engineering leaders, as well as technical leaders**
 10. **1-3 pages is a good target. I’d say that taking complex projects or issues and concisely explaining them is valuable to our way of working**
-11. **The Document will be in two sections, A and B**
+11. **The Document will be in two sections, A and B, prompt for the subject matter of the section and the questions are**
 
 Questions That Must Be Answered for section A:
-1. **What problem was that strategy solving and why was it necessary in terms of business impact?** (including what data pointed to the need for it)
-2. **What was your definition of success? And what impact did it eventually have?** (including any specific metrics you tracked for both)
-3. **Who were the key stakeholders and how did you make a case for it, handle objections and build support among that group?**
-4. **How did you collaborate with others throughout the execution of that strategy and what impact did that have on the outcomes?**
-5. **What were your biggest individual lessons learned and how would you apply them if you were to redo it?**
-
+[insert questions]
 Questions That Must Be Answered for section B: 
-1. **Why did you decide to lead it?**
-2. **What was the scope, timeframe and success criteria of this project?**
-3. **What was the most complex decision you had to make and how did you determine the best course of action to take? What was the impact it had on the project outcome?**
-4. **What was the biggest unexpected problem and what actions did you take to overcome it?**
-5. **What was the project outcome in terms of impact and timeframe against your initial expectations?**
+[insert questions]
 
 Formatting Rules: 
 1. **No em dashes, en dashes, or hyphens used as connecting punctuation anywhere.** 
